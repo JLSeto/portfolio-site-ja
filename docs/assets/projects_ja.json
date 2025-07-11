@@ -182,5 +182,29 @@
     ],
     "externalLink": "https://jlseto.github.io/",
     "imgSrc": "/assets/projects/jekyll/jekyll.png"
+  },
+  {
+    "id": "website-refresh-2025",
+    "title": "ウェブサイトリフレッシュ：2025年版",
+    "synopsis": "最新のAngularを使ってウェブサイトを一新し、モダン化・簡素化・パフォーマンス向上を目指しました。",
+    "date": "2025年7月11日",
+    "techStack": [
+      "TypeScript",
+      "Angular",
+      "GitHub Pages"
+    ],
+    "tags": [
+      "angular",
+      "ウェブサイト",
+      "typescript",
+      "github pages",
+      "リフレッシュ"
+    ],
+    "isPost": true,
+    "isDemo": false,
+    "hasComponent": false,
+    "demoArr": [],
+    "externalLink": "",
+    "imgSrc": "/assets/projects/website-refresh-2025/website-refresh-2025.png"
   }
 ]
