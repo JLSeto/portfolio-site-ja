@@ -44,7 +44,7 @@ The server uses **WebSockets** to forward the data to the front-end webpage, whe
 
 ## Demo & Source Code
 
-<a href="https://github.com/JLSeto/CC2650" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>
+<a href="https://github.com/JLSeto/CC2650" target="__blank" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 800px; margin: 0 auto;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden; border-radius: 12.5px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);">

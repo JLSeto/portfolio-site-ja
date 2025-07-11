@@ -3,15 +3,15 @@
 *August 8, 2021*
 
 <div class="tag-list">
-  <span class="tag">#IoT</span>
-  <span class="tag">#BLE</span>
-  <span class="tag">#Arduino101</span>
-  <span class="tag">#Intel Edison</span>
-  <span class="tag">#MEANstack</span>
-  <span class="tag">#Nodejs</span>
-  <span class="tag">#WebSockets</span>
-  <span class="tag">#SensorData</span>
-  <span class="tag">#RealTimeVisualization</span>
+  <span class="tag">IoT</span>
+  <span class="tag">BLE</span>
+  <span class="tag">Arduino101</span>
+  <span class="tag">Intel Edison</span>
+  <span class="tag">MEANstack</span>
+  <span class="tag">Nodejs</span>
+  <span class="tag">WebSockets</span>
+  <span class="tag">SensorData</span>
+  <span class="tag">RealTimeVisualization</span>
 </div>
 
 <p align="left">
@@ -69,7 +69,7 @@ The webpage is built with **AngularJS** and styled using **Bootstrap**. Sensor d
 
 ## Demo & Source Code
 
-<a href="https://github.com/JLSeto/Arduino101" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>
+<a href="https://github.com/JLSeto/Arduino101" target="__blank" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 800px; margin: 0 auto;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden; border-radius: 12.5px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);">

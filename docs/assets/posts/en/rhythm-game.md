@@ -18,15 +18,15 @@ The demo features **League of Legends** art and music, but all assets — includ
 
 To play, press the **Play** button and use the following keys:
 
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">A</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">S</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">D</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">F</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:100px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">Space</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">J</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">K</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">L</span>
-<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; background-color:#f9f9f9; margin:4px;">;</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">A</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">S</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">D</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">F</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:100px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">Space</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">J</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">K</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">L</span>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border:2px solid #444; border-radius:6px; margin:4px;">;</span>
 
 ---
 
@@ -56,4 +56,4 @@ While the core mechanics are in place, there are plenty of ways the game could b
 <a href="./demo/rhythm-game" style="text-decoration: none; color: #007acc; font-weight: bold;">▶️ Play Rhythm Game</a>
 
 ## Source  
-<a href="https://github.com/JLSeto/jimmyset0/tree/master/src/app/beat-music" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>
+<a href="https://github.com/JLSeto/jimmyset0/tree/master/src/app/beat-music" target="__blank" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>

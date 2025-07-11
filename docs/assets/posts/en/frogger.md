@@ -54,4 +54,4 @@ The game is structured into three main layers:
 <a href="./demo/frogger" style="text-decoration: none; color: #007acc; font-weight: bold;">▶️ Play Frogger</a>
 
 ## Source  
-<a href="https://github.com/JLSeto/jimmyset0/tree/master/src/app/frogger" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>
+<a href="https://github.com/JLSeto/jimmyset0/tree/master/src/app/frogger" target="__blank" style="text-decoration: none; color: #007acc; font-weight: bold;">📁 View Source on GitHub</a>

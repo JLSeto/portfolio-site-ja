@@ -1,8 +1,8 @@
 [
   {
     "id": "rhythm-game",
-    "title": "Rhythm Game",
-    "synopsis": "A rhythm game built with TypeScript and Angular, featuring music and artwork from League of Legends.",
+    "title": "リズムゲーム",
+    "synopsis": "TypeScript と Angular で作られたリズムゲーム。League of Legends の音楽とアートワークをフィーチャーしています。",
     "date": "February 19, 2022",
     "techStack": [
       "TypeScript",
@@ -12,9 +12,9 @@
     ],
     "tags": [
       "typescript",
-      "rhythm",
-      "game",
-      "webgame",
+      "リズム",
+      "ゲーム",
+      "ウェブゲーム",
       "angular"
     ],
     "isPost": true,
@@ -27,8 +27,8 @@
   },
   {
     "id": "voicegengo",
-    "title": "Voice Gengo",
-    "synopsis": "A community-driven voice app for Japanese and English learners focused on improving pronunciation.",
+    "title": "ボイス言語（Voice Gengo）",
+    "synopsis": "日本語と英語学習者向けの発音改善に特化したコミュニティ主導の音声アプリです。",
     "date": "March 8, 2021",
     "techStack": [
       "Node.js",
@@ -40,11 +40,11 @@
       "OWASP"
     ],
     "tags": [
-      "language-learning",
-      "fullstack",
+      "言語学習",
+      "フルスタック",
       "angular",
       "node.js",
-      "speech"
+      "スピーチ"
     ],
     "isPost": true,
     "isDemo": false,
@@ -54,8 +54,8 @@
   },
   {
     "id": "frogger",
-    "title": "Frogger",
-    "synopsis": "A classic Frogger-style arcade game rebuilt with TypeScript and Angular.",
+    "title": "フロッガー",
+    "synopsis": "TypeScript と Angular で作り直されたクラシックなフロッガースタイルのアーケードゲームです。",
     "date": "January 08, 2021",
     "techStack": [
       "TypeScript",
@@ -65,9 +65,9 @@
     ],
     "tags": [
       "typescript",
-      "arcade",
-      "game",
-      "webgame",
+      "アーケード",
+      "ゲーム",
+      "ウェブゲーム",
       "angular"
     ],
     "isPost": true,
@@ -80,8 +80,8 @@
   },
   {
     "id": "iot-mean-app",
-    "title": "Real-Time IoT Sensor Dashboard (Arduino 101)",
-    "synopsis": "A real-time IoT dashboard using RESTful APIs to visualize sensor data from the Arduino 101 platform.",
+    "title": "リアルタイム IoT センサーダッシュボード（Arduino 101）",
+    "synopsis": "Arduino 101 プラットフォームのセンサーデータを RESTful API で可視化するリアルタイム IoT ダッシュボード。",
     "date": "December 12, 2017",
     "techStack": [
       "Node.js",
@@ -94,9 +94,9 @@
       "ble",
       "arduino",
       "intel edison",
-      "mean stack",
+      "meanスタック",
       "websockets",
-      "sensor-data"
+      "センサーデータ"
     ],
     "isPost": true,
     "isDemo": true,
@@ -109,8 +109,8 @@
   },
   {
     "id": "iot-cc2650",
-    "title": "IoT Sensor Dashboard",
-    "synopsis": "An IoT web app that visualizes sensor data from the Texas Instruments CC2650 SensorTag.",
+    "title": "IoT センサーダッシュボード",
+    "synopsis": "Texas Instruments の CC2650 SensorTag からのセンサーデータを可視化する IoT ウェブアプリ。",
     "date": "December 5, 2017",
     "techStack": [
       "Node.js",
@@ -122,8 +122,8 @@
       "iot",
       "ble",
       "node.js",
-      "sensor-data",
-      "ti sensortag"
+      "センサーデータ",
+      "TI SensorTag"
     ],
     "isPost": true,
     "isDemo": true,
@@ -136,8 +136,8 @@
   },
   {
     "id": "binary-calculator",
-    "title": "Binary Calculator",
-    "synopsis": "A decimal, binary, and hexadecimal converter supporting up to 64-bit signed and unsigned integers.",
+    "title": "2進数計算機",
+    "synopsis": "10進数、2進数、16進数の変換ができ、64ビット符号付き・符号なし整数に対応したコンバーターです。",
     "date": "January 30, 2021",
     "techStack": [
       "TypeScript",
@@ -145,9 +145,9 @@
     ],
     "tags": [
       "typescript",
-      "calculator",
-      "converter",
-      "frontend"
+      "計算機",
+      "コンバーター",
+      "フロントエンド"
     ],
     "isPost": false,
     "isDemo": true,
@@ -159,8 +159,8 @@
   },
   {
     "id": "jekyll-website",
-    "title": "Jekyll Portfolio Website",
-    "synopsis": "A static personal portfolio website built with Jekyll and hosted on GitHub Pages.",
+    "title": "Jekyll ポートフォリオサイト",
+    "synopsis": "Jekyll を使って作成し、GitHub Pages でホストされている静的な個人ポートフォリオサイトです。",
     "date": "November 11, 2017",
     "techStack": [
       "JavaScript",
@@ -170,8 +170,8 @@
     ],
     "tags": [
       "jekyll",
-      "static-site",
-      "portfolio",
+      "静的サイト",
+      "ポートフォリオ",
       "github pages"
     ],
     "isPost": true,
